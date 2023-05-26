@@ -1,0 +1,7 @@
+{
+  "version": "v1.0.0",
+  "pub_date": "2023-05-25T12:29:53+01:00",
+  "url": "https://github.com/mindnoop/chatgpt-client/releases/download/doudian/doudian-client.app.tar.gz",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SXZYQXEzTjJpeVpGMERYMkcxUGF3NFBZWHlXcmZMbElLSyszTTBoQklwVzk0L015bEdkeXRqZldGejJCVEFlOHNXeHFXRkRlaTBsYVV6M2pWVEZVYndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MDQwMDE3CWZpbGU6ZG91ZGlhbi1jbGllbnQuYXBwLnRhci5negowNC9IOGVySFBETEh6ZTBaRlVVbkx6NDhYL2VKeVhJTUYvZ3RQVFplc1ErVzc4WC9ERVhyaHMrV1hZMDltQWthblkwdEpNOFpJNGxlb3hMdTU2TzVBQT09Cg==",
+  "notes": "修复了部分已知问题"
+}
