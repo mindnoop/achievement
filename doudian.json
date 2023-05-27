@@ -10,6 +10,10 @@
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SWhRL1g1MFBPSTA5eGY3ZlA0RXhpYTFEZlJVb1FoRGZNc2lkcEZKTWxrNUxHMmJEL0MvT1hQYkRsRmQzQnJPZTl6cWozZGxQWkF4azFWL1A0bkRQckF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MTc0MTkwCWZpbGU6ZG91ZGlhbi1jbGllbnRfMS4wLjVfeDY0X2VuLVVTLm1zaS56aXAKeHM2M0FPOFNoTGhEUnpJamNoNnRWOTNLdFBMZ3VIVjFxTXE2Ukxtekhad04xM1ZEeFBkZHRZOEVtMkJSalkramQ1bXU2eHAzcEE2ZFNXTFFMQ0JlQmc9PQo=",
       "url": "https://github.com/mindnoop/doudian-client/releases/download/v1.0.5/doudian-client_1.0.5_x64_en-US.msi.zip"
+    },
+    "windows-x64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SWhRL1g1MFBPSTA5eGY3ZlA0RXhpYTFEZlJVb1FoRGZNc2lkcEZKTWxrNUxHMmJEL0MvT1hQYkRsRmQzQnJPZTl6cWozZGxQWkF4azFWL1A0bkRQckF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MTc0MTkwCWZpbGU6ZG91ZGlhbi1jbGllbnRfMS4wLjVfeDY0X2VuLVVTLm1zaS56aXAKeHM2M0FPOFNoTGhEUnpJamNoNnRWOTNLdFBMZ3VIVjFxTXE2Ukxtekhad04xM1ZEeFBkZHRZOEVtMkJSalkramQ1bXU2eHAzcEE2ZFNXTFFMQ0JlQmc9PQo=",
+      "url": "https://github.com/mindnoop/doudian-client/releases/download/v1.0.5/doudian-client_1.0.5_x64_en-US.msi.zip"
     }
   }
 }
