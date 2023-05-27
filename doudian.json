@@ -1,7 +1,15 @@
 {
-  "version": "v1.0.3",
-  "pub_date": "2023-05-25T12:29:53+01:00",
-  "url": "https://github.com/mindnoop/achievement/releases/download/doudian/doudian-client.app.tar.gz",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SW9GTTZIZWtWYXRoREpZcWU4UDFRRHY3ajFRTUV1VFR1WUtNcWV2UDY5Q3lnTDkxZUN2azEweTVPN3hwTlEycDg1a1YyNmJCR3dBU3JIbWZOK3hPV0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MDY5NjI5CWZpbGU6ZG91ZGlhbi1jbGllbnQuYXBwLnRhci5negprTGdpUkhQc2pCR09ieEYzSjNlTHY5SWFNbGM1d09MVFBlcFFDMUovK25IZm9pUHlVVjEwbWVWL1RsMGYxZ3Nmc0xnNmZBMTJSSnB0ZkxLaEtFUzRDdz09Cg==",
-  "notes": "修复了部分已知问题1.0.1~"
+  "version": "1.0.3",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2023-05-27T05:26:47.484Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SXFZWU9PUEJFS1U1NmxpT09GZVFEakwrU0VKdXlDZUR3Uzd2UmJJNkg3VjA3c0cvbWY4b3h3YTZRWDlqZnZPK3JZTndRTSsvTU1vT21GZktQTXJDUHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MTY1MTUyCWZpbGU6ZG91ZGlhbi1jbGllbnQuYXBwLnRhci5negpzd3cyb0pwdVhieWZHbG5MN0hzc2pqVnVka3ZKeGRRQ1NUak9jUVJVV3VCclh0bkxUTjBtSVpkcU1BOGloWm5UQWJmRUJaTDRhN05NYzNQOU5tQlBBQT09Cg==",
+      "url": "https://github.com/mindnoop/doudian-client/releases/download/v1.0.3/doudian-client_x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SWhOL2h5b1dXVEJnQmUvTjYxZHNTVzgwQXZyQTI3dFVYNUVLUFU5c0dncjRvSVR4THVmV0J6S1BDL3RNS2YwVUswV3BjVlZ2ZUFwaVNhRUtoWnhxandjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MTY1MjAzCWZpbGU6ZG91ZGlhbi1jbGllbnRfMS4wLjNfeDY0X2VuLVVTLm1zaS56aXAKbHJId0ZTS3FEN05BbkpXOWkxQ1lDclNQZUgvWmRsL1EyUUJ5b09CRDN5bUFiWE5rVmw1amR3ZFEwbjBqNWIwczNZQ1Myc0ZtYmVjR2hvNkpUN2JsRFE9PQo=",
+      "url": "https://github.com/mindnoop/doudian-client/releases/download/v1.0.3/doudian-client_1.0.3_x64_en-US.msi.zip"
+    }
+  }
 }
