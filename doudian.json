@@ -1,15 +1,15 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2023-05-27T05:26:47.484Z",
+  "pub_date": "2023-05-27T07:19:14.081Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SXFZWU9PUEJFS1U1NmxpT09GZVFEakwrU0VKdXlDZUR3Uzd2UmJJNkg3VjA3c0cvbWY4b3h3YTZRWDlqZnZPK3JZTndRTSsvTU1vT21GZktQTXJDUHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MTY1MTUyCWZpbGU6ZG91ZGlhbi1jbGllbnQuYXBwLnRhci5negpzd3cyb0pwdVhieWZHbG5MN0hzc2pqVnVka3ZKeGRRQ1NUak9jUVJVV3VCclh0bkxUTjBtSVpkcU1BOGloWm5UQWJmRUJaTDRhN05NYzNQOU5tQlBBQT09Cg==",
-      "url": "https://github.com/mindnoop/doudian-client/releases/download/v1.0.3/doudian-client_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SWdWdmltMEUrZGR2OWh6WjlOaHhCS09lanZnb0hzT09xNHdzWSs5cTBNa1lTV200WjJpaGRBTFcwOGFZNnYrSWZ3OFlpclhKclR2VWJCMkx4NGxYTUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MTcxOTUwCWZpbGU6ZG91ZGlhbi1jbGllbnQuYXBwLnRhci5negpFUFNxcldsWHdodUNCWHhiSzRZdks0U0MxdHRsNjFJNU5xRE1YSVFORTl3M1gzM0ZMQTZ1bHZmRnZpZnhiNHdSNGs5STZ6dVJhdlF3MWpsRWVUakZCZz09Cg==",
+      "url": "https://github.com/mindnoop/doudian-client/releases/download/v1.0.4/doudian-client_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SWhOL2h5b1dXVEJnQmUvTjYxZHNTVzgwQXZyQTI3dFVYNUVLUFU5c0dncjRvSVR4THVmV0J6S1BDL3RNS2YwVUswV3BjVlZ2ZUFwaVNhRUtoWnhxandjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MTY1MjAzCWZpbGU6ZG91ZGlhbi1jbGllbnRfMS4wLjNfeDY0X2VuLVVTLm1zaS56aXAKbHJId0ZTS3FEN05BbkpXOWkxQ1lDclNQZUgvWmRsL1EyUUJ5b09CRDN5bUFiWE5rVmw1amR3ZFEwbjBqNWIwczNZQ1Myc0ZtYmVjR2hvNkpUN2JsRFE9PQo=",
-      "url": "https://github.com/mindnoop/doudian-client/releases/download/v1.0.3/doudian-client_1.0.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SXBNMW1YSUNsQy9WSEQwbnNpV0xpYTZneTVIODhrQlR2NDZ6WDkvckhaM2VSV0Rrc1NGVVg5VkRBcHZDNWl2MVZONzMyS3ZwNm45di9UR2dUZCt5UWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MTcxMDMxCWZpbGU6ZG91ZGlhbi1jbGllbnRfMS4wLjRfeDY0X2VuLVVTLm1zaS56aXAKeW5HRTJlUjRmclEwMTEzS1d2R2ZyZDRTVFp1WGc3SXBZaVhYZStGbnRFMHhrbFBUSHYvOXRqcHVBSk9Ic2psOTlFWlBxM1BHOFp2R09xcmhDTWF1Q0E9PQo=",
+      "url": "https://github.com/mindnoop/doudian-client/releases/download/v1.0.4/doudian-client_1.0.4_x64_en-US.msi.zip"
     }
   }
 }
