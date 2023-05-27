@@ -1,19 +1,35 @@
 {
-	"version": "1.0.5",
-	"notes": "See the assets to download this version and install.",
-	"pub_date": "2023-05-27T07:56:35.968Z",
-	"platforms": {
-		"darwin-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SXAzUGZvVUJ2WmRrY3pwc1lTVW5oeUlRNDUxeEo3ajVhd1N6cmVyK3lpc2N2RS9WOURTTnRsQWEwVFE1WlJHRnQyQ01MUFRnMTRYTnYvVXZoQmRNN3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MTczOTk3CWZpbGU6ZG91ZGlhbi1jbGllbnQuYXBwLnRhci5negppdWpFbjM3NGplVjB6S1h2VHo4N2FQekR4RDR5QkJSbVlnL3BFUkJpaGd1bE1uZFNqbUhlOFdsVXJDNHJBOGF0U29Bc2E0Y2c5angzTmxqdmtjMVBBZz09Cg==",
-			"url": "https://github.com/mindnoop/doudian-client/releases/download/v1.0.5/doudian-client_x64.app.tar.gz"
-		},
-		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SWhRL1g1MFBPSTA5eGY3ZlA0RXhpYTFEZlJVb1FoRGZNc2lkcEZKTWxrNUxHMmJEL0MvT1hQYkRsRmQzQnJPZTl6cWozZGxQWkF4azFWL1A0bkRQckF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MTc0MTkwCWZpbGU6ZG91ZGlhbi1jbGllbnRfMS4wLjVfeDY0X2VuLVVTLm1zaS56aXAKeHM2M0FPOFNoTGhEUnpJamNoNnRWOTNLdFBMZ3VIVjFxTXE2Ukxtekhad04xM1ZEeFBkZHRZOEVtMkJSalkramQ1bXU2eHAzcEE2ZFNXTFFMQ0JlQmc9PQo=",
-			"url": "https://github.com/mindnoop/doudian-client/releases/download/v1.0.5/doudian-client_1.0.5_x64_en-US.msi.zip"
-		},
-		"win64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK1ZWR2dvNkN0SWhRL1g1MFBPSTA5eGY3ZlA0RXhpYTFEZlJVb1FoRGZNc2lkcEZKTWxrNUxHMmJEL0MvT1hQYkRsRmQzQnJPZTl6cWozZGxQWkF4azFWL1A0bkRQckF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1MTc0MTkwCWZpbGU6ZG91ZGlhbi1jbGllbnRfMS4wLjVfeDY0X2VuLVVTLm1zaS56aXAKeHM2M0FPOFNoTGhEUnpJamNoNnRWOTNLdFBMZ3VIVjFxTXE2Ukxtekhad04xM1ZEeFBkZHRZOEVtMkJSalkramQ1bXU2eHAzcEE2ZFNXTFFMQ0JlQmc9PQo=",
-			"url": "https://github.com/mindnoop/doudian-client/releases/download/v1.0.5/doudian-client_1.0.5_x64_en-US.msi.zip"
-		}
-	}
+  "version": "v1.0.5",
+  "notes": "Note: This version modifies some configuration files. It is recommended to backup the `~/.chatgpt` folder in advance to avoid loss of important configurations.\n\nFeat:\n\n- The synchronization method for prompts has been optimized, now supporting local file uploads\n- Scripts have been externalized, allowing for editing and synchronization\n- Removed the `Awesome` menu from `Control Center`\n\nFix:\n\n- Chat history export is blank\n- Change the export files location to the `Download` directory",
+  "pub_date": "2023-05-25T05:24:54.600Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1FTNE42THZXNXFBZDNCQ25HRlAyQUMwLy82QzN4blRDWWNuL2IzQ2NhaGdESGtWSG56eklOUXNUQkRjUDh1aksxTWpoSG5iOWRXcXhQY2pkT1d0SWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0OTkyMTM5CWZpbGU6Q2hhdEdQVF8xLjAuMF94NjRfZW4tVVMubXNpLnppcAphTGdwOTlKSG53K29wTGlDNzNTcXA4YTZoUUl1V3pWTzZUbzdYV0FsNlFEQXFjSDAyVFBCVnVNWVJVU3BDUXJJMjFwOE1iOGxPWVRpbmNzWjJWMHFDQT09Cg==",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.0.0/ChatGPT_1.0.0_windows_x86_64.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1J5VUt5R3owZkUrMGVNL1hLOEpPR3ZhM2FwZ2xNSEhFa09MakpBL0xkUHFsRDFGWUc5WjVRbURTMkdULzZCSDRZUGdtR1Vrd3pPUDI5bkdwYWl4M3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0OTkxNzI4CWZpbGU6Y2hhdC1ncHRfMS4wLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Ckt4OWQrbFVWS1FMTWVsSHhHWG41dkJKNU5tZXR1Z01JelpsOFJsbW96NkdSMExYNFdobmtzclA2ME9pZFVxWTJoOWpqcGlzNmxOdElkR3JIZ2lGbkRRPT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.0.0/ChatGPT_1.0.0_linux_x86_64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1R0Wkl5S1pBamkvdkZFOVpkOUp1S3ZtL2lucSs4ck9wK3lGNUxJc0YrYUxxYnFKeTMrMEF1VEo3SkFpeFgybVBuOUd5dCtVYVRGRWEvelFuNDU4ZkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0OTkxOTQzCWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6CnFTSXpaMGZzQlBCMWVHbmJFZGZFKzV0WGZMa3MwangxdE9haVA5a2loSlJ4OTNEK0lpZHBwMzBGQUFwZVJrb2lhazZ0U3ZXc1BqSWthbnZOWDlXV0N3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.0.0/ChatGPT_1.0.0_macos_x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1R0Wkl5S1pBamkvdkZFOVpkOUp1S3ZtL2lucSs4ck9wK3lGNUxJc0YrYUxxYnFKeTMrMEF1VEo3SkFpeFgybVBuOUd5dCtVYVRGRWEvelFuNDU4ZkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0OTkxOTQzCWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6CnFTSXpaMGZzQlBCMWVHbmJFZGZFKzV0WGZMa3MwangxdE9haVA5a2loSlJ4OTNEK0lpZHBwMzBGQUFwZVJrb2lhazZ0U3ZXc1BqSWthbnZOWDlXV0N3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.0.0/ChatGPT_1.0.0_macos_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1R0Wkl5S1pBamkvdkZFOVpkOUp1S3ZtL2lucSs4ck9wK3lGNUxJc0YrYUxxYnFKeTMrMEF1VEo3SkFpeFgybVBuOUd5dCtVYVRGRWEvelFuNDU4ZkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0OTkxOTQzCWZpbGU6Q2hhdEdQVC5hcHAudGFyLmd6CnFTSXpaMGZzQlBCMWVHbmJFZGZFKzV0WGZMa3MwangxdE9haVA5a2loSlJ4OTNEK0lpZHBwMzBGQUFwZVJrb2lhazZ0U3ZXc1BqSWthbnZOWDlXV0N3PT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.0.0/ChatGPT_1.0.0_macos_x86_64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1J5VUt5R3owZkUrMGVNL1hLOEpPR3ZhM2FwZ2xNSEhFa09MakpBL0xkUHFsRDFGWUc5WjVRbURTMkdULzZCSDRZUGdtR1Vrd3pPUDI5bkdwYWl4M3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0OTkxNzI4CWZpbGU6Y2hhdC1ncHRfMS4wLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Ckt4OWQrbFVWS1FMTWVsSHhHWG41dkJKNU5tZXR1Z01JelpsOFJsbW96NkdSMExYNFdobmtzclA2ME9pZFVxWTJoOWpqcGlzNmxOdElkR3JIZ2lGbkRRPT0K",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.0.0/ChatGPT_1.0.0_linux_x86_64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRkRlWVZ1WWttc1FTNE42THZXNXFBZDNCQ25HRlAyQUMwLy82QzN4blRDWWNuL2IzQ2NhaGdESGtWSG56eklOUXNUQkRjUDh1aksxTWpoSG5iOWRXcXhQY2pkT1d0SWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0OTkyMTM5CWZpbGU6Q2hhdEdQVF8xLjAuMF94NjRfZW4tVVMubXNpLnppcAphTGdwOTlKSG53K29wTGlDNzNTcXA4YTZoUUl1V3pWTzZUbzdYV0FsNlFEQXFjSDAyVFBCVnVNWVJVU3BDUXJJMjFwOE1iOGxPWVRpbmNzWjJWMHFDQT09Cg==",
+      "url": "https://github.com/lencx/ChatGPT/releases/download/v1.0.0/ChatGPT_1.0.0_windows_x86_64.msi.zip"
+    }
+  }
 }
